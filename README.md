@@ -1,2 +1,2 @@
 # DiscordClient.code
-Contains about ShiroKotei Bot files
+Contains ShiroKotei Bot files
